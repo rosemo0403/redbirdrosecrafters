@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_source">
+    <sys_search_source action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <condition table="x_21260_red_bird_0_product">active=true</condition>
+        <group/>
+        <name>Red Bird Rose Crafters - x_21260_red_bird_0_produc</name>
+        <roles/>
+        <source_table>x_21260_red_bird_0_product</source_table>
+        <sys_class_name>sys_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-12 16:02:05</sys_created_on>
+        <sys_id>f8042743077511104810f7108c1ed0a7</sys_id>
+        <sys_name>Red Bird Rose Crafters - x_21260_red_bird_0_produc</sys_name>
+        <sys_package display_value="Red Bird Rose Crafters" source="x_21260_red_bird_0">32de2a4b073111104810f7108c1ed0e3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Red Bird Rose Crafters">32de2a4b073111104810f7108c1ed0e3</sys_scope>
+        <sys_update_name>sys_search_source_f8042743077511104810f7108c1ed0a7</sys_update_name>
+    </sys_search_source>
+    <sys_translated_text action="delete_multiple" query="documentkey=f8042743077511104810f7108c1ed0a7"/>
+</record_update>

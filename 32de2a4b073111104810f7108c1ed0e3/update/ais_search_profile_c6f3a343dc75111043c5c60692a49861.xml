@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile">
+    <ais_search_profile action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>This is default AI Search profile for Red Bird Rose Crafters</description>
+        <genius_result_assembly/>
+        <label>Red Bird Rose Crafters Search Profile</label>
+        <name>x_21260_red_bird_0_oqfgxhn_search_profile</name>
+        <publish_id>2449c534-4b9b-4e35-b53e-a68c1d07d4ba</publish_id>
+        <state>DRAFT</state>
+        <sys_class_name>ais_search_profile</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-12 16:01:56</sys_created_on>
+        <sys_id>c6f3a343dc75111043c5c60692a49861</sys_id>
+        <sys_name>Red Bird Rose Crafters Search Profile</sys_name>
+        <sys_package display_value="Red Bird Rose Crafters" source="x_21260_red_bird_0">32de2a4b073111104810f7108c1ed0e3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Red Bird Rose Crafters">32de2a4b073111104810f7108c1ed0e3</sys_scope>
+        <sys_update_name>ais_search_profile_c6f3a343dc75111043c5c60692a49861</sys_update_name>
+    </ais_search_profile>
+</record_update>

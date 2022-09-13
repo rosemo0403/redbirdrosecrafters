@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_ribbon_config">
+    <sys_ux_ribbon_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Red Bird Rose Crafters Ribbon Config</description>
+        <name>Red Bird Rose Crafters</name>
+        <sys_class_name>sys_ux_ribbon_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-12 16:01:56</sys_created_on>
+        <sys_id>8af3a3433f751110cfef4c1d72948b5e</sys_id>
+        <sys_name>Red Bird Rose Crafters</sys_name>
+        <sys_package display_value="Red Bird Rose Crafters" source="x_21260_red_bird_0">32de2a4b073111104810f7108c1ed0e3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Red Bird Rose Crafters">32de2a4b073111104810f7108c1ed0e3</sys_scope>
+        <sys_update_name>sys_ux_ribbon_config_8af3a3433f751110cfef4c1d72948b5e</sys_update_name>
+    </sys_ux_ribbon_config>
+</record_update>

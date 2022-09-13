@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_visibility">
+    <par_dashboard_visibility action="INSERT_OR_UPDATE">
+        <dashboard display_value="Red Bird Rose Crafters">0ef3a343b47511108bed27ac99da765e</dashboard>
+        <experience display_value="Red Bird Rose Crafters">86f3a3439c7511100d79a484f4b56b66</experience>
+        <sys_class_name>par_dashboard_visibility</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-12 16:01:55</sys_created_on>
+        <sys_id>4af3a3435f751110dde07a3dd22c8761</sys_id>
+        <sys_name/>
+        <sys_package display_value="Red Bird Rose Crafters" source="x_21260_red_bird_0">32de2a4b073111104810f7108c1ed0e3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Red Bird Rose Crafters">32de2a4b073111104810f7108c1ed0e3</sys_scope>
+        <sys_update_name>par_dashboard_visibility_4af3a3435f751110dde07a3dd22c8761</sys_update_name>
+    </par_dashboard_visibility>
+</record_update>

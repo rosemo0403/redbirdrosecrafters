@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_df_data_filtration">
+    <sys_df_data_filtration action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <cascading>true</cascading>
+        <data_condition table="x_21260_red_bird_0_product">category=Wreath<item display_value="Wreath" endquery="false" field="category" goto="false" newquery="false" operator="=" or="false" value="Wreath"/>
+        </data_condition>
+        <description>Exclude wreaths to regular users</description>
+        <strict_enforcement>false</strict_enforcement>
+        <subject_condition>Subject Role=2831a114c611228501d4ea6c309d626d</subject_condition>
+        <sys_class_name>sys_df_data_filtration</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-12 15:56:54</sys_created_on>
+        <sys_id>a6622bcf073511104810f7108c1ed05e</sys_id>
+        <sys_name>Exclude wreaths to regular users</sys_name>
+        <sys_package display_value="Red Bird Rose Crafters" source="x_21260_red_bird_0">32de2a4b073111104810f7108c1ed0e3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Red Bird Rose Crafters">32de2a4b073111104810f7108c1ed0e3</sys_scope>
+        <sys_update_name>sys_df_data_filtration_a6622bcf073511104810f7108c1ed05e</sys_update_name>
+        <table>x_21260_red_bird_0_product</table>
+    </sys_df_data_filtration>
+</record_update>

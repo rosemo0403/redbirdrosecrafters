@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="44eb7e47077111104810f7108c1ed007" sys_domain="global" table="x_21260_red_bird_0_product" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-12 13:06:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c4eb7e47077111104810f7108c1ed00a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_21260_red_bird_0_product" name="x_21260_red_bird_0_product" sys_domain="global" view="Default view">44eb7e47077111104810f7108c1ed007</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_21260_red_bird_0_product" sys_domain="global" view="Default view">8a41fe03073111104810f7108c1ed089</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-12 13:06:43</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-12 13:06:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c0eb7e47077111104810f7108c1ed00b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_21260_red_bird_0_product" name="x_21260_red_bird_0_product" sys_domain="global" view="Default view">44eb7e47077111104810f7108c1ed007</sys_ui_form>
+            <sys_ui_section caption="Details" display_value="Details" name="x_21260_red_bird_0_product" sys_domain="global" view="Default view">04eb3e47077111104810f7108c1ed064</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-12 13:06:43</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_21260_red_bird_0_product</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-12 13:06:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>44eb7e47077111104810f7108c1ed007</sys_id>
+            <sys_name>x_21260_red_bird_0_product</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Red Bird Rose Crafters" source="x_21260_red_bird_0">32de2a4b073111104810f7108c1ed0e3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Red Bird Rose Crafters">32de2a4b073111104810f7108c1ed0e3</sys_scope>
+            <sys_update_name>sys_ui_form_sections_44eb7e47077111104810f7108c1ed007</sys_update_name>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_21260_red_bird_0.TestScriptIncludeSecurity</api_name>
+        <caller_access/>
+        <client_callable>true</client_callable>
+        <description/>
+        <name>TestScriptIncludeSecurity</name>
+        <script><![CDATA[var TestScriptIncludeSecurity = Class.create();
+TestScriptIncludeSecurity.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+
+    type: 'TestScriptIncludeSecurity'
+});]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-12 18:07:11</sys_created_on>
+        <sys_id>068000db07b511104810f7108c1ed054</sys_id>
+        <sys_name>TestScriptIncludeSecurity</sys_name>
+        <sys_package display_value="Red Bird Rose Crafters" source="x_21260_red_bird_0">32de2a4b073111104810f7108c1ed0e3</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Red Bird Rose Crafters">32de2a4b073111104810f7108c1ed0e3</sys_scope>
+        <sys_update_name>sys_script_include_068000db07b511104810f7108c1ed054</sys_update_name>
+    </sys_script_include>
+</record_update>
